@@ -53,7 +53,7 @@ For more details see :doc:`electrical`
 Software
 -----------
 
-Acorn's system software is primarily written in python, with embedded systems
-code written in C++.
+Acorn's system software is primarily written in python. Embedded systems
+code is written in C++.
 
 For more details see :doc:`software`
