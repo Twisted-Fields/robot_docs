@@ -1,13 +1,20 @@
-Welcome to Lumache's documentation!
+Welcome to Twisted Fields' documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Twisted Fields creates Acorn, a farming robot build with our Precision Farming
+Rover system. The PFR system and Acorn robot are open source, and comprised of
+mechanical designs, printed circuit board designs, and software.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+
+`Twisted Fields<https://www.twistedfields.com/>` is a research farm located in
+San Gregorio, California, just outside of Silicon Valley and San Francisco.
+
+Check out the :doc:`overview` section for an overview of how the system works.
+
+See also `our community discussion page<https://community.twistedfields.com/>`
+for active discussion of this project. View `our youtube channel<https://www.youtube.com/@twistedfields>`
+for status updates on the project and additional information, and see all of
+our open source materials directly on `our github page<https://github.com/Twisted-Fields/>`.
 
 .. note::
 
@@ -18,5 +25,7 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   overview
+   software
+   electrical
+   mechanical

@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Acorn precision farming rover'
+copyright = '2024, Sequoia'
+author = 'Sequoia'
 
 release = '0.1'
 version = '0.1.0'
