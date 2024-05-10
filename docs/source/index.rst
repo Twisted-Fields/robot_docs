@@ -14,6 +14,8 @@ for active discussion of this project. View `our youtube channel <https://www.yo
 for status updates on the project and additional information, and see all of
 our open source materials directly on `our github page <https://github.com/Twisted-Fields/>`_.
 
+See the "Contents" section below for additional information.
+
 .. note::
 
    This project is under active development.

@@ -49,3 +49,11 @@ chassis wiring, a motor control board in each corner assembly, and quite a few
 additional support PCBs.
 
 For more details see :doc:`electrical`
+
+Software
+-----------
+
+Acorn's system software is primarily written in python, with embedded systems
+code written in C++.
+
+For more details see :doc:`software`

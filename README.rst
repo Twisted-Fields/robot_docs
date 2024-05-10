@@ -1,9 +1,6 @@
-Template for the Read the Docs tutorial
+Twisted Fields docs test
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+See this page live here:
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+https://twistedfields.readthedocs.io/en/latest/index.html
