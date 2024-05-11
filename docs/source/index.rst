@@ -34,6 +34,6 @@ Contents
    electrical
    mechanical
 
- .. image:: images/sunset.jpeg
-   :width: 1200
-   :alt: A photo showing Acorn under the sunset.
+.. image:: images/sunset.jpeg
+ :width: 1200
+ :alt: A photo showing Acorn under the sunset.
