@@ -57,3 +57,11 @@ Acorn's system software is primarily written in python. Embedded systems
 code is written in C++.
 
 For more details see :doc:`software`
+
+Mechanical
+-----------
+
+Acorn uses a MIG welded aluminum frame built from aluminum tubes and CNC plasma
+cut aluminum plate.
+
+For more details see :doc:`mechanical`
