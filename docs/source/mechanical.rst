@@ -5,6 +5,10 @@ Acorn uses a MIG welded aluminum frame built from aluminum tubes and CNC plasma
 cut aluminum plate. With a little practice and careful study of free welding
 tutorial videos online, anyone can learn aluminum MIG welding.
 
+.. image:: images/rolling_chassis.jpeg
+  :width: 1200
+  :alt: A photo showing Acorn's rolling chassis.
+
 Equipment Required
 ------------
 

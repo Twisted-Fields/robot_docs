@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="184mm"
+   height="174mm"
+   viewBox="0 0 184 174"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="vehicle.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="false"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="mm"
+     inkscape:zoom="1.2810466"
+     inkscape:cx="354.00743"
+     inkscape:cy="493.73693"
+     inkscape:window-width="2490"
+     inkscape:window-height="1376"
+     inkscape:window-x="1990"
+     inkscape:window-y="529"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g278218" />
+  <defs
+     id="defs2">
+    <rect
+       x="364.79999"
+       y="576.21466"
+       width="301.11496"
+       height="111.02208"
+       id="rect39570" />
+    <rect
+       x="364.79999"
+       y="576.21466"
+       width="325.31528"
+       height="247.46507"
+       id="rect39570-8" />
+    <rect
+       x="364.79999"
+       y="576.21466"
+       width="334.98465"
+       height="198.82745"
+       id="rect39570-0" />
+    <rect
+       x="364.79999"
+       y="576.21466"
+       width="331.89258"
+       height="158.06886"
+       id="rect39570-3" />
+    <rect
+       x="364.79999"
+       y="576.21466"
+       width="301.11496"
+       height="111.02208"
+       id="rect39570-6" />
+    <rect
+       x="364.79999"
+       y="576.21466"
+       width="331.89258"
+       height="158.06886"
+       id="rect39570-3-1" />
+    <rect
+       x="364.79999"
+       y="576.21466"
+       width="337.11402"
+       height="322.48574"
+       id="rect39570-0-2" />
+    <rect
+       x="364.79999"
+       y="576.21466"
+       width="325.31528"
+       height="247.46507"
+       id="rect39570-8-9" />
+    <rect
+       x="364.79999"
+       y="576.21466"
+       width="331.89258"
+       height="158.06886"
+       id="rect39570-3-1-6" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g109011"
+       transform="translate(2.1222253,0.56646204)">
+      <g
+         id="g265323"
+         transform="matrix(0.87192045,0,0,0.87192045,196.96027,1.2008371)" />
+      <g
+         id="g278218"
+         transform="translate(-199.86834,-2.3655832)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:5.05421px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.126356"
+           x="300.65717"
+           y="13.446273"
+           id="text16241-4-3"><tspan
+             sodipodi:role="line"
+             id="tspan16239-4-0"
+             style="stroke-width:0.126356"
+             x="300.65717"
+             y="13.446273">docker-compose-vehicle.yml</tspan></text>
+        <path
+           style="fill:none;stroke:#ff632e;stroke-width:1.665;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 281.06569,60.909048 25.12964,-0.01357"
+           id="path109132-9-1"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;stroke:#00bf18;stroke-width:1.665;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 200.422,56.251386 14.99315,0.03101"
+           id="path109132-2-2-4"
+           sodipodi:nodetypes="cc" />
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:1.43261;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect846-7"
+           width="178.5674"
+           height="170.56738"
+           x="200.46242"
+           y="3.5154297"
+           ry="11.429132" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:9.92625px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.248158"
+           x="213.96037"
+           y="18.199451"
+           id="text3299-8"><tspan
+             sodipodi:role="line"
+             id="tspan3297-4"
+             style="stroke-width:0.248158"
+             x="213.96037"
+             y="18.199451">Vehicle</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:5.05421px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.126356"
+           x="214.0224"
+           y="27.42606"
+           id="text16241-5"><tspan
+             sodipodi:role="line"
+             id="tspan16239-0"
+             style="stroke-width:0.126356"
+             x="214.0224"
+             y="27.42606">vehicle/autolaunch_vehicle.sh</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:5.05421px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.126356"
+           x="131.24393"
+           y="49.284561"
+           id="text6279-62-2"
+           transform="matrix(0.87192046,0,0,0.87192046,196.96027,1.2008371)"><tspan
+             sodipodi:role="line"
+             style="stroke-width:0.126356"
+             x="131.24393"
+             y="49.284561"
+             id="tspan9191-7-0">motors</tspan></text>
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect846-3-2-1-7-6"
+           width="75.22039"
+           height="42.398968"
+           x="125.26009"
+           y="41.260078"
+           ry="8.3762722"
+           transform="matrix(0.87192046,0,0,0.87192046,196.96027,1.2008371)" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.18330906,0,0,0.18330906,243.16305,-57.651322)"
+           id="text39568-5-1"
+           style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect39570-3-1);fill:#000000;fill-opacity:1;stroke:none"><tspan
+             x="364.80078"
+             y="595.08981"
+             id="tspan278342">tight loop communicates with </tspan><tspan
+             x="364.80078"
+             y="621.75644"
+             id="tspan278344">all four corner assemblies (8 </tspan><tspan
+             x="364.80078"
+             y="648.42307"
+             id="tspan278346">motors) over CAN bus at </tspan><tspan
+             x="364.80078"
+             y="675.08969"
+             id="tspan278348">approx 240hz</tspan></text>
+        <g
+           id="g265323-8"
+           transform="matrix(0.87192045,0,0,0.87192045,178.29265,66.903351)">
+          <g
+             id="g275287"
+             transform="translate(0.03602872,-2.8445916)">
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:5.05421px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.126356"
+               x="130.2272"
+               y="50.00544"
+               id="text6279-62-2-8"><tspan
+                 sodipodi:role="line"
+                 style="stroke-width:0.126356"
+                 x="130.2272"
+                 y="50.00544"
+                 id="tspan9191-7-0-4">rtcm manager</tspan></text>
+            <rect
+               style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect846-3-2-1-7-6-3"
+               width="75.133987"
+               height="51.752407"
+               x="125.26009"
+               y="41.260078"
+               ry="8.3762722" />
+            <text
+               xml:space="preserve"
+               transform="matrix(0.21023599,0,0,0.21023599,52.989671,-67.497165)"
+               id="text39568-5-1-1"
+               style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect39570-3-1-6);fill:#000000;fill-opacity:1;stroke:none"><tspan
+                 x="364.80078"
+                 y="595.08981"
+                 id="tspan278350">standalone process reads RTK </tspan><tspan
+                 x="364.80078"
+                 y="621.75644"
+                 id="tspan278352">GPS correction data over a </tspan><tspan
+                 x="364.80078"
+                 y="648.42307"
+                 id="tspan278354">network socket and sends it </tspan><tspan
+                 x="364.80078"
+                 y="675.08969"
+                 id="tspan278356">over serial to the two GPS </tspan><tspan
+                 x="364.80078"
+                 y="701.75632"
+                 id="tspan278358">modules mounted on the </tspan><tspan
+                 x="364.80078"
+                 y="728.42294"
+                 id="tspan278360">motherboard</tspan></text>
+          </g>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:4.40687px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.110172"
+           x="284.95694"
+           y="52.501064"
+           id="text6279-62-2-7"><tspan
+             sodipodi:role="line"
+             style="stroke-width:0.110172"
+             x="284.95694"
+             y="52.501064"
+             id="tspan9191-7-0-8">shared</tspan><tspan
+             sodipodi:role="line"
+             style="stroke-width:0.110172"
+             x="284.95694"
+             y="58.009651"
+             id="tspan264433">memory</tspan></text>
+        <g
+           id="g105381-5"
+           transform="matrix(0.87192045,0,0,0.87192045,130.18404,-53.510481)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:5.05421px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.126356"
+             x="102.14825"
+             y="111.29385"
+             id="text6279-5"><tspan
+               sodipodi:role="line"
+               style="stroke-width:0.126356"
+               x="102.14825"
+               y="111.29385"
+               id="tspan9191-4">main</tspan></text>
+          <rect
+             style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect846-3-2-1-2-7"
+             width="75.054977"
+             height="57.712826"
+             x="97.799744"
+             y="101.85379"
+             ry="11.401653" />
+          <text
+             xml:space="preserve"
+             transform="matrix(0.21023599,0,0,0.21023599,24.496106,-3.2115221)"
+             id="text39568-2-6"
+             style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect39570-0-2);fill:#000000;fill-opacity:1;stroke:none"><tspan
+               x="364.80078"
+               y="595.08981"
+               id="tspan278362">handles ZMQ communication </tspan><tspan
+               x="364.80078"
+               y="621.75644"
+               id="tspan278364">with server, sends final motor </tspan><tspan
+               x="364.80078"
+               y="648.42307"
+               id="tspan278366">commands to motor process, </tspan><tspan
+               x="364.80078"
+               y="675.08969"
+               id="tspan278368">interprets remote control input </tspan><tspan
+               x="364.80078"
+               y="701.75632"
+               id="tspan278370">and autonomy commands, and </tspan><tspan
+               x="364.80078"
+               y="728.42294"
+               id="tspan278372">collects robot data for server</tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:4.40687px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.110172"
+           x="204.6658"
+           y="54.378277"
+           id="text6279-6-7-4"><tspan
+             sodipodi:role="line"
+             style="stroke-width:0.110172"
+             x="204.6658"
+             y="54.378277"
+             id="tspan9191-5-3-7">wifi</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
