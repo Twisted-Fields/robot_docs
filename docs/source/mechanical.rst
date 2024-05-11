@@ -17,6 +17,7 @@ expensive tool, could be omitted if one wanted to source those parts from an
 outside shop.
 
 Major tools:
+
 * 3D printer      $1000
 * welder           $500
 * plasma cutter   $8000
@@ -25,6 +26,7 @@ Major tools:
 * welding table    $200
 
 Other useful tools:
+
 * Metal files
 * Drill bits
 * Orbital sander
