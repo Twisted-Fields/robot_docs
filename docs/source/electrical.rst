@@ -22,7 +22,7 @@ Acorn relies on an extensive set of custom circuit boards. The two most
 important boards are the motherboard and the motor controller, with other boards
 supporting these in a few ways.
 
-#### Motherboard
+Motherboard
 
 Holds the main computer, a Raspberry Pi Compute Module 4, and communicates
 with the four motor controllers using CAN bus. Also manages GPS, wifi, emergency
