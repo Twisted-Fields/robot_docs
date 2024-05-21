@@ -17,6 +17,9 @@ source platform.
 Long term, these tools will be integrated in to the main system design, creating
 a complete open source farming automation system.
 
+Our entire system source design files are available on our github:
+https://github.com/Twisted-Fields
+
 System Design
 ------------
 
@@ -31,6 +34,8 @@ The power system is comprised of a solar panel system operating at 45 volts
 nominal, an array of supercapacitors to temporarily store power, and simple
 power electronics to protect the supercapacitors. There are no batteries -
 Acorn operates directly off of solar power.
+
+See also :doc:`materials`
 
 Corner Assembly
 --------------
