@@ -70,3 +70,4 @@ Acorn uses a MIG welded aluminum frame built from aluminum tubes and CNC plasma
 cut aluminum plate.
 
 For more details see :doc:`mechanical`
+See also :doc:`frame`

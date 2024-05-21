@@ -9,6 +9,8 @@ tutorial videos online, anyone can learn aluminum MIG welding.
   :width: 1200
   :alt: A photo showing Acorn's rolling chassis.
 
+See also :doc:`frame`
+
 Equipment Required
 ------------
 
