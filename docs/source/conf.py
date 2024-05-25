@@ -38,4 +38,6 @@ epub_show_urls = 'footnote'
 myst_enable_extensions = [
     "html_admonition",
     "html_image",
+    "colon_fence",
+    
 ]
