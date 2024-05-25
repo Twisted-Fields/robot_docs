@@ -38,7 +38,7 @@ Induction encoder interface cable
 
 ##### Drive Motor
 
-https://ebikes.ca/geared-wheelbarrow-motor.html  
+[Supplier URL](https://ebikes.ca/geared-wheelbarrow-motor.html)  
 $275.00  
 This motor is generally pretty good, but it may not be weatherproof enough.
 May need to order a custom motor, but suppliers we have contacted have not
@@ -53,18 +53,18 @@ support our needs. So far efforts to do so over Alibaba have failed.
 
 Carlisle X Trac ATV Bias Tire - 4.80-8
 $40  
-https://www.amazon.com/gp/product/B001THKFKI/
+[Amazon link](https://www.amazon.com/gp/product/B001THKFKI/)
 
 ##### Steering Motor
 
 AM Equipment AMP240-0502  
-https://www.amequipment.com/shop/240-series-standard-industrial-dc-gear-motor/  
+[Supplier URL](https://www.amequipment.com/shop/240-series-standard-industrial-dc-gear-motor/)  
 \$300 - We no longer need the built-in encoder, so a cheaper weather sealed
 motor should be found, or a non-sealed motor plus enclosure should be tested.
 
 Something in the 60 RPM range similar to these \$45 aliexpress motors could be
 viable:  
-https://www.aliexpress.us/item/3256805726245085.html  
+[Aliexpress URL](https://www.aliexpress.us/item/3256805726245085.html)  
 Warning these shippers seem slow and unreliable. A reliable supplier would
 need to be found, if testing showed the motors to be of acceptable performance.
 These motors may be under powered - needs testing.

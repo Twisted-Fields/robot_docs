@@ -16,7 +16,7 @@ Long term, these tools will be integrated in to the main system design, creating
 a complete open source farming automation system.
 
 Our entire system source design files are available on our github:
-<https://github.com/Twisted-Fields>
+[https://github.com/Twisted-Fields](https://github.com/Twisted-Fields)
 
 ## System Design
 

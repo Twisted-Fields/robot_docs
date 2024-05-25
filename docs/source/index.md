@@ -30,4 +30,4 @@ pcb/motor_controller
 about
 ```
 
- <img src="images/sunset.jpeg" alt="A photo showing Acorn under the sunset." width="1200">
+<img src="images/sunset.jpeg" alt="A photo showing Acorn under the sunset." width="1200">

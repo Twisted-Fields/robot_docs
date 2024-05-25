@@ -44,7 +44,7 @@ publish official PCB releases, to make ordering them easier for users.
 Holds the main computer, a Raspberry Pi Compute Module 4, and communicates
 with the four motor controllers using CAN bus. Also manages GPS, wifi, emergency
 stop system, and several other functions.  
-https://github.com/Twisted-Fields/acorn-robot-electronics/tree/main/cm4_robot_board  
+[Kicad files](https://github.com/Twisted-Fields/acorn-robot-electronics/tree/main/cm4_robot_board)
 
 For more information see {doc}`pcb/motherboard`
 
@@ -60,7 +60,7 @@ over CAN bus using our firmware flashing scripts. The User Interface PCB
 attaches to the CPU Base PCB and features several buttons, switches, and LEDs
 as well as room for an OLED display. This is used to control the corner
 assembly.  
-https://github.com/Twisted-Fields/rp2040-motor-controller/
+[Kicad files](https://github.com/Twisted-Fields/rp2040-motor-controller/)
 
 #### Induction Encoder
 
@@ -72,7 +72,7 @@ with the motor controller using I2C over the motor controller encoder ports.
 The induction section uses two phases, and the magnetic sensors detect a magnet
 in the steering gear which disambiguates the phases. The PCB is partially
 generated with a python script also present in the git repo.  
-https://github.com/Twisted-Fields/induction_encoder
+[Kicad files](https://github.com/Twisted-Fields/induction_encoder)
 
 #### Magnetic Angle Encoder
 
@@ -80,7 +80,7 @@ An on-axis magnetic angle encoder. Designed to be used as an angle sensor on
 hobby-style brushless motors for use with our motor controller. Not presently
 used on our robot, but important to know it is available for use with
 supporting code.  
-https://github.com/Twisted-Fields/rp2040-motor-controller/tree/main/rp2040_encoder
+[Kicad files](https://github.com/Twisted-Fields/rp2040-motor-controller/tree/main/rp2040_encoder)
 
 #### RP2040 Debugger PCB
 
@@ -88,21 +88,21 @@ A custom debugger PCB for our RP2040 board. Designed before the official
 debugger was available, but features our larger and more rugged molex debug
 connector, USB-C, and lots of good vibes. The design has now been updated to
 match the official debugger schematic (excluding level shifting buffers).  
-https://github.com/Twisted-Fields/rp2040-motor-controller/tree/main/debugger
+[Kicad files](https://github.com/Twisted-Fields/rp2040-motor-controller/tree/main/debugger)
 
 #### Mag Sensor
 
 A single analog magnetic field strength sensor PCB is available for custom
 end stop sensing when building tools or other machinery with our system. This
 board mates to the CPU Base PCB of the motor controller.  
-https://github.com/Twisted-Fields/acorn-robot-electronics/tree/main/mag_sensor
+[Kicad files](https://github.com/Twisted-Fields/acorn-robot-electronics/tree/main/mag_sensor)
 
 #### Supercap balance and fuse PCB
 
 This PCB is still under development, but will balance the supercaps and provide
 some sort of safety fuse or current based shut-off of power if there is a short
 on the system power leads. One version of that board is here:  
-https://github.com/Twisted-Fields/acorn-robot-electronics/tree/main/supercap/supercap
+[Kicad files](https://github.com/Twisted-Fields/acorn-robot-electronics/tree/main/supercap/supercap)
 
 #### Camera system PCB
 
@@ -113,8 +113,8 @@ mounted in each corner of Acorn with one facing outward and one facing inward,
 for a total of four external navigation cameras and four crop vision cameras.
 Cameras could also be mounted as overlapping stereo pairs.
 See the open source StarlightEye camera here:  
-https://github.com/will127534/StarlightEye  
+[GitHub - will127534/StarlightEye: A IMX585 camera board designed for Raspberry Pi](https://github.com/will127534/StarlightEye)
 See also the One Inch Eye here:  
-https://github.com/will127534/OneInchEye  
+[GitHub - will127534/OneInchEye: A One Inch CMOS sensor (IMX283) camera board designed for Raspberry Pi](https://github.com/will127534/OneInchEye)  
 The large pixels of these sensors offer considerable advantages over standard
 Raspberry Pi camera modules, but sensor availability may be an issue.
