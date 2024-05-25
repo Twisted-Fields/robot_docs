@@ -4,5 +4,5 @@ build-backend = "flit_core.buildapi"
 
 [project]
 name = "Acorn precision farming rover"
-authors = [{name = "Sequoia", email = "taylor@twistedfields"}]
+authors = [{name = "Sequoia Alexander", email = "taylor@twistedfields"}]
 dynamic = ["version", "description"]

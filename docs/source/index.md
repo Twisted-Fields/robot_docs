@@ -2,7 +2,7 @@
 
 We're creating Acorn, our open source Precision Farming Rover.
 
-<img src="images/acorn.jpeg" alt="A photo showing Acorn in the grass." width="500"> 
+<img src="images/acorn.jpeg" alt="A photo showing Acorn in the grass." width="1200">
 
 [Twisted Fields](https://www.twistedfields.com/) is a research farm located in
 San Gregorio, California, just outside of Silicon Valley and San Francisco.
@@ -22,6 +22,12 @@ overview
 software
 electrical
 mechanical
+corner
+frame
+materials
+pcb/motherboard
+pcb/motor_controller
+about
 ```
 
- <img src="images/sunset.jpeg" alt="A photo showing Acorn under the sunset." width="500"> 
+ <img src="images/sunset.jpeg" alt="A photo showing Acorn under the sunset." width="1200">
