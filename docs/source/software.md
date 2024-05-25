@@ -7,12 +7,6 @@ The python code can be logically separated in to "vehicle" and "server" code.
 The server code is typically run on a separate machine, though it can be run on
 robot.
 
-```{image} images/server.svg
-:alt: A diagram showing how different pieces of system software work together.
-:width: 1200
-```
+<img src="images/server.svg" alt="A diagram showing the software that runs on the server." width="1200"> 
 
-```{image} images/vehicle.svg
-:alt: A diagram showing how different pieces of vehicle software work together.
-:width: 1200
-```
+<img src="images/vehicle.svg" alt="A diagram showing the software that runs on the vehicle." width="1200"> 

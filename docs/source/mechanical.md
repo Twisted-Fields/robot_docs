@@ -4,10 +4,7 @@ Acorn uses a MIG welded aluminum frame built from aluminum tubes and CNC plasma
 cut aluminum plate. With a little practice and careful study of free welding
 tutorial videos online, anyone can learn aluminum MIG welding.
 
-```{image} images/rolling_chassis.jpeg
-:alt: A photo showing Acorn's rolling chassis.
-:width: 1200
-```
+<img src="images/rolling_chassis.jpeg" alt="A photo showing Acorn's rolling chassis." width="1200"> 
 
 See also {doc}`frame`
 
@@ -33,3 +30,9 @@ Other useful tools:
 - Orbital sander
 - Screwdrivers
 - Wrenches
+
+## Locating design files
+
+The design files are in onshape, a free cloud based CAD program. As of mid-2024, the mechanical designs are highly in flux, and the mechanical design folder structure has not been organized. By the end of 2024, our mechanical designs should be stabilized, and design released will be created. When that occurs, the design files will be organized. For now, feel free to browse the design files as a reference. More information is available here:
+
+[GitHub - Twisted-Fields/acorn-mechanical-designs](https://github.com/Twisted-Fields/acorn-mechanical-designs)

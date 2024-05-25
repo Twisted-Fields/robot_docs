@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="164mm"
+   height="140mm"
+   viewBox="0 0 164 140"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="wiring.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="false"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="mm"
+     inkscape:zoom="0.90583674"
+     inkscape:cx="426.67733"
+     inkscape:cy="365.95999"
+     inkscape:window-width="2490"
+     inkscape:window-height="1376"
+     inkscape:window-x="1990"
+     inkscape:window-y="529"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g109011" />
+  <defs
+     id="defs2">
+    <rect
+       x="364.79999"
+       y="576.21466"
+       width="301.11496"
+       height="111.02208"
+       id="rect39570" />
+    <rect
+       x="364.79999"
+       y="576.21466"
+       width="325.31528"
+       height="247.46507"
+       id="rect39570-8" />
+    <rect
+       x="364.79999"
+       y="576.21466"
+       width="334.98465"
+       height="198.82745"
+       id="rect39570-0" />
+    <rect
+       x="364.79999"
+       y="576.21466"
+       width="331.89258"
+       height="158.06886"
+       id="rect39570-3" />
+    <rect
+       x="364.79999"
+       y="576.21466"
+       width="301.11496"
+       height="111.02208"
+       id="rect39570-6" />
+    <rect
+       x="364.79999"
+       y="576.21466"
+       width="331.89258"
+       height="158.06886"
+       id="rect39570-3-1" />
+    <rect
+       x="364.79999"
+       y="576.21466"
+       width="337.11401"
+       height="322.48575"
+       id="rect39570-0-2" />
+    <rect
+       x="364.79999"
+       y="576.21466"
+       width="325.31528"
+       height="247.46507"
+       id="rect39570-8-9" />
+    <rect
+       x="364.79999"
+       y="576.21466"
+       width="331.89258"
+       height="158.06886"
+       id="rect39570-3-1-6" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g109011"
+       transform="translate(2.1222253,0.56646204)">
+      <path
+         style="fill:none;stroke:#00bfdc;stroke-width:1.665;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 96.989482,54.860711 c -3.63795,-2.445421 -4.47376,-7.272166 -0.53881,-10.219736"
+         id="path109132-9"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#ffbb00;stroke-width:1.665;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 20.028384,59.897151 c -0.08563,-3.35039 -1.24431,-6.937718 -0.684854,-10.828709"
+         id="path109132-9-28"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#ff0000;stroke-width:1.665;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 57.375384,93.316032 c 0.657238,-3.14735 1.657475,-5.47002 0.23506,-12.13638"
+         id="path109132-9-28-9"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#ff0000;stroke-width:1.665;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 94.898882,88.826862 c -6.57811,1.04569 -25.854264,-17.033135 -29.925773,-16.9629"
+         id="path109132-9-28-9-7"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#ff0000;stroke-width:1.665;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 94.821302,62.278583 c -9.338586,0.02124 -25.258124,6.042585 -29.7028,6.292799"
+         id="path109132-9-28-9-3"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#ff0000;stroke-width:1.665;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 63.327014,63.073599 C 68.525523,60.919128 83.208664,42.681354 94.869772,41.678721"
+         id="path109132-9-28-9-6"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#00bfdc;stroke-width:1.665;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 97.038552,82.315723 c -3.63795,-2.445421 -4.47376,-7.272166 -0.53881,-10.219736"
+         id="path109132-9-9"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#00bfdc;stroke-width:1.665;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 97.312182,108.65524 c -3.63795,-2.44543 -4.47376,-7.27217 -0.53881,-10.219738"
+         id="path109132-9-2"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#00bfdc;stroke-width:1.665;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 94.802502,117.33187 C 89.210922,118.71114 77.786901,107.29005 65.2491,107.82708"
+         id="path109132-9-2-2"
+         sodipodi:nodetypes="cc" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:1.43261;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect846"
+         width="158.08061"
+         height="135.25882"
+         x="0.63642496"
+         y="1.8298861"
+         ry="11.429132" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:9.92625px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.248158"
+         x="10.269528"
+         y="18.148626"
+         id="text3299"><tspan
+           sodipodi:role="line"
+           id="tspan3297"
+           style="stroke-width:0.248158"
+           x="10.269528"
+           y="18.148626">Vehicle Wiring</tspan></text>
+      <g
+         id="g22198"
+         transform="translate(-92.8238,-18.568289)">
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:0.999997;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect846-3-2-1-7"
+           width="52.427376"
+           height="20.708971"
+           x="105.51642"
+           y="46.943607"
+           ry="7.303443" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:5.83535px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.145884"
+           x="113.92629"
+           y="59.473526"
+           id="text6279-0-3"><tspan
+             sodipodi:role="line"
+             style="stroke-width:0.145884"
+             x="113.92629"
+             y="59.473526"
+             id="tspan9191-6-6">Solar Panels</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:3.61961px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0904905"
+           x="160.98729"
+           y="136.024"
+           id="text6279-0-3-9"><tspan
+             sodipodi:role="line"
+             style="stroke-width:0.0904905"
+             x="160.98729"
+             y="136.024"
+             id="tspan9191-6-6-3">CAN Bus</tspan><tspan
+             sodipodi:role="line"
+             style="stroke-width:0.0904905"
+             x="160.98729"
+             y="140.54851"
+             id="tspan48603">and</tspan><tspan
+             sodipodi:role="line"
+             style="stroke-width:0.0904905"
+             x="160.98729"
+             y="145.07303"
+             id="tspan48605">E-Stop</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:3.61961px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0904905"
+           x="166.33154"
+           y="89.484001"
+           id="text6279-0-3-9-1"><tspan
+             sodipodi:role="line"
+             style="stroke-width:0.0904905"
+             x="166.33154"
+             y="89.484001"
+             id="tspan9191-6-6-3-9">Chassis</tspan><tspan
+             sodipodi:role="line"
+             style="stroke-width:0.0904905"
+             x="166.33154"
+             y="94.008514"
+             id="tspan45060">Power</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:3.61961px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0904905"
+           x="114.27543"
+           y="74.000237"
+           id="text6279-0-3-9-1-4"><tspan
+             sodipodi:role="line"
+             style="stroke-width:0.0904905"
+             x="114.27543"
+             y="74.000237"
+             id="tspan45060-8">Solar Power</tspan></text>
+      </g>
+      <g
+         id="g22203"
+         transform="translate(-92.8238,-18.568289)">
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:0.999997;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect846-3-2-1-7-6"
+           width="52.427376"
+           height="20.708971"
+           x="105.53216"
+           y="111.94645"
+           ry="7.303443" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:5.83535px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.145884"
+           x="113.94203"
+           y="124.47638"
+           id="text6279-0-3-2"><tspan
+             sodipodi:role="line"
+             style="stroke-width:0.145884"
+             x="113.94203"
+             y="124.47638"
+             id="tspan9191-6-6-9">Motherboard</tspan></text>
+      </g>
+      <g
+         id="g22193"
+         transform="translate(-92.8238,-18.568289)">
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:0.999997;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect846-3-2-1-7-5"
+           width="52.427376"
+           height="20.708971"
+           x="105.19547"
+           y="78.828178"
+           ry="7.303443" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:5.83535px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.145884"
+           x="113.84531"
+           y="87.322334"
+           id="text6279-0-3-3"><tspan
+             sodipodi:role="line"
+             style="stroke-width:0.145884"
+             x="113.84531"
+             y="87.322334"
+             id="tspan9191-6-6-5">Super</tspan><tspan
+             sodipodi:role="line"
+             style="stroke-width:0.145884"
+             x="113.84531"
+             y="94.616524"
+             id="tspan18186">Capacitors</tspan></text>
+      </g>
+      <g
+         id="g265323"
+         transform="matrix(0.87192045,0,0,0.87192045,196.96027,1.2008371)" />
+      <path
+         style="fill:none;stroke:#ff0000;stroke-width:1.665;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 95.008812,112.40318 C 87.189332,107.33808 67.930224,83.40299 63.240971,78.848388"
+         id="path109132-9-28-9-7-1"
+         sodipodi:nodetypes="cc" />
+      <g
+         id="g22203-1"
+         transform="translate(-100.02881,-48.356218)">
+        <g
+           id="g24336"
+           transform="translate(89.380483,-36.982778)">
+          <rect
+             style="fill:none;stroke:#000000;stroke-width:0.999997;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect846-3-2-1-7-6-2"
+             width="52.427376"
+             height="20.708971"
+             x="105.53216"
+             y="111.94645"
+             ry="7.303443" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:5.83535px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.145884"
+             x="115.83575"
+             y="120.57371"
+             id="text6279-0-3-2-7"><tspan
+               sodipodi:role="line"
+               style="stroke-width:0.145884"
+               x="115.83575"
+               y="120.57371"
+               id="tspan9191-6-6-9-0">Corner</tspan><tspan
+               sodipodi:role="line"
+               style="stroke-width:0.145884"
+               x="115.83575"
+               y="127.8679"
+               id="tspan22974">Assembly</tspan></text>
+        </g>
+        <g
+           id="g24336-9"
+           transform="translate(89.380483,-10.216263)">
+          <rect
+             style="fill:none;stroke:#000000;stroke-width:0.999997;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect846-3-2-1-7-6-2-3"
+             width="52.427376"
+             height="20.708971"
+             x="105.53216"
+             y="111.94645"
+             ry="7.303443" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:5.83535px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.145884"
+             x="115.83575"
+             y="120.57371"
+             id="text6279-0-3-2-7-6"><tspan
+               sodipodi:role="line"
+               style="stroke-width:0.145884"
+               x="115.83575"
+               y="120.57371"
+               id="tspan9191-6-6-9-0-0">Corner</tspan><tspan
+               sodipodi:role="line"
+               style="stroke-width:0.145884"
+               x="115.83575"
+               y="127.8679"
+               id="tspan22974-6">Assembly</tspan></text>
+        </g>
+        <g
+           id="g24336-2"
+           transform="translate(89.380483,15.95124)">
+          <rect
+             style="fill:none;stroke:#000000;stroke-width:0.999997;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect846-3-2-1-7-6-2-6"
+             width="52.427376"
+             height="20.708971"
+             x="105.53216"
+             y="111.94645"
+             ry="7.303443" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:5.83535px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.145884"
+             x="115.83575"
+             y="120.57371"
+             id="text6279-0-3-2-7-1"><tspan
+               sodipodi:role="line"
+               style="stroke-width:0.145884"
+               x="115.83575"
+               y="120.57371"
+               id="tspan9191-6-6-9-0-8">Corner</tspan><tspan
+               sodipodi:role="line"
+               style="stroke-width:0.145884"
+               x="115.83575"
+               y="127.8679"
+               id="tspan22974-7">Assembly</tspan></text>
+        </g>
+        <g
+           id="g24336-92"
+           transform="translate(89.380483,42.981095)">
+          <rect
+             style="fill:none;stroke:#000000;stroke-width:0.999997;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect846-3-2-1-7-6-2-0"
+             width="52.427376"
+             height="20.708971"
+             x="105.53216"
+             y="111.94645"
+             ry="7.303443" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:5.83535px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.145884"
+             x="115.83575"
+             y="120.57371"
+             id="text6279-0-3-2-7-2"><tspan
+               sodipodi:role="line"
+               style="stroke-width:0.145884"
+               x="115.83575"
+               y="120.57371"
+               id="tspan9191-6-6-9-0-3">Corner</tspan><tspan
+               sodipodi:role="line"
+               style="stroke-width:0.145884"
+               x="115.83575"
+               y="127.8679"
+               id="tspan22974-75">Assembly</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

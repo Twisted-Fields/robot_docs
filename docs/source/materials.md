@@ -1,9 +1,6 @@
 # Bill of Materials
 
-```{image} images/shop.jpeg
-:alt: A photo of our shop, with a chicken on the workbench.
-:width: 1200
-```
+<img src="images/shop.jpeg" alt="A photo of our shop, with a chicken on the workbench." width="1200"> 
 
 ## Configurations
 
@@ -17,23 +14,30 @@ Chassis Wiring - data
 Chassis Wiring - power  
 Corner Assemblies x4  
 Super Capacitors  
+Motherboard Assembly  
+GPS Modules x 2 ([Source](https://www.sparkfun.com/products/16481))
+GPS Antennas x 2 ([Source](https://www.sparkfun.com/products/23814))
 Frame Side x 2  
 Frame Front x 2  
+Frame solar panel mounts
 
 ## Corner Assembly
 
 Motor controller PCB assembly with UI PCB  
-$100  
+\$100  
 Induction encoder PCB  
-$20  
+\$20  
 
 Aluminum fork upper weldment  
 Aluminum fork lower weldment  
+Thrust bearings  
+3D printed steel steering drive gear  
 Drive motor phase and hall cable  
 Steering motor phase cable  
 Induction encoder interface cable  
 
-Drive Motor  
+##### Drive Motor
+
 https://ebikes.ca/geared-wheelbarrow-motor.html  
 $275.00  
 This motor is generally pretty good, but it may not be weatherproof enough.
@@ -45,12 +49,14 @@ supports larger diameter tires, better weather sealing, and planetary gearing.
 Or someone on the ground in China may be able to find a manufacturer which can
 support our needs. So far efforts to do so over Alibaba have failed.
 
-Tires  
+##### Tires
+
 Carlisle X Trac ATV Bias Tire - 4.80-8
 $40  
 https://www.amazon.com/gp/product/B001THKFKI/
 
-Steering Motor  
+##### Steering Motor
+
 AM Equipment AMP240-0502  
 https://www.amequipment.com/shop/240-series-standard-industrial-dc-gear-motor/  
 \$300 - We no longer need the built-in encoder, so a cheaper weather sealed

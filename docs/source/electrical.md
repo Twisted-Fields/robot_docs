@@ -3,6 +3,8 @@
 Acorn's electrical system can broadly be described as a motherboard
 communicating with four corner assemblies using [CAN bus](https://en.wikipedia.org/wiki/CAN_bus).
 
+<img src="images/wiring.svg" alt="A diagram showing the vehicle chassis wiring." width="1200"> 
+
 ## Chassis Wiring
 
 We use a custom data cable system with two CAN bus circuits and a special
