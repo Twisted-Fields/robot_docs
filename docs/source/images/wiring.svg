@@ -24,9 +24,9 @@
      inkscape:document-units="mm"
      showgrid="false"
      units="mm"
-     inkscape:zoom="0.90583674"
-     inkscape:cx="426.67733"
-     inkscape:cy="365.95999"
+     inkscape:zoom="1.8116735"
+     inkscape:cx="315.4542"
+     inkscape:cy="319.31803"
      inkscape:window-width="2490"
      inkscape:window-height="1376"
      inkscape:window-x="1990"
@@ -118,6 +118,16 @@
          id="path109132-9-28-9-7"
          sodipodi:nodetypes="cc" />
       <path
+         style="fill:none;stroke:#4e70f5;stroke-width:1.665;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 51.465524,121.20718 c -0.08659,-3.85869 -5.278719,-3.61153 -5.156316,-6.98262 m 5.113246,6.87209"
+         id="path109132-9-28-9-7-12"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#4e70f5;stroke-width:1.665;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 32.626502,121.11573 c -0.08659,-3.85869 -5.278719,-3.61153 -5.156316,-6.98262 m 5.113246,6.87209"
+         id="path109132-9-28-9-7-12-7"
+         sodipodi:nodetypes="cc" />
+      <path
          style="fill:none;stroke:#ff0000;stroke-width:1.665;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 94.821302,62.278583 c -9.338586,0.02124 -25.258124,6.042585 -29.7028,6.292799"
          id="path109132-9-28-9-3"
@@ -186,23 +196,23 @@
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:3.61961px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0904905"
-           x="160.98729"
-           y="136.024"
+           x="165.07147"
+           y="138.35423"
            id="text6279-0-3-9"><tspan
              sodipodi:role="line"
              style="stroke-width:0.0904905"
-             x="160.98729"
-             y="136.024"
+             x="165.07147"
+             y="138.35423"
              id="tspan9191-6-6-3">CAN Bus</tspan><tspan
              sodipodi:role="line"
              style="stroke-width:0.0904905"
-             x="160.98729"
-             y="140.54851"
+             x="165.07147"
+             y="142.87874"
              id="tspan48603">and</tspan><tspan
              sodipodi:role="line"
              style="stroke-width:0.0904905"
-             x="160.98729"
-             y="145.07303"
+             x="165.07147"
+             y="147.40326"
              id="tspan48605">E-Stop</tspan></text>
         <text
            xml:space="preserve"
@@ -254,6 +264,60 @@
              x="113.94203"
              y="124.47638"
              id="tspan9191-6-6-9">Motherboard</tspan></text>
+      </g>
+      <g
+         id="g22203-3"
+         transform="translate(-86.520736,22.740586)">
+        <g
+           id="g2943"
+           transform="translate(-51.501551,-25.054109)">
+          <g
+             id="g3028"
+             transform="translate(-0.46315738,-1.0946491)">
+            <rect
+               style="fill:none;stroke:#000000;stroke-width:0.426812;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect846-3-2-1-7-6-6"
+               width="23.668438"
+               height="8.3565006"
+               x="151.36754"
+               y="124.603"
+               ry="2.9470913" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:4.86142px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.121536"
+               x="152.42735"
+               y="130.55087"
+               id="text6279-0-3-2-75"><tspan
+                 sodipodi:role="line"
+                 style="stroke-width:0.121536"
+                 x="152.42735"
+                 y="130.55087"
+                 id="tspan9191-6-6-9-3">GPS ANT</tspan></text>
+          </g>
+          <g
+             id="g3028-5"
+             transform="translate(27.467695,-1.0946491)">
+            <rect
+               style="fill:none;stroke:#000000;stroke-width:0.426812;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect846-3-2-1-7-6-6-6"
+               width="23.668438"
+               height="8.3565006"
+               x="151.36754"
+               y="124.603"
+               ry="2.9470913" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:4.86142px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.121536"
+               x="152.42735"
+               y="130.55087"
+               id="text6279-0-3-2-75-2"><tspan
+                 sodipodi:role="line"
+                 style="stroke-width:0.121536"
+                 x="152.42735"
+                 y="130.55087"
+                 id="tspan9191-6-6-9-3-9">GPS ANT</tspan></text>
+          </g>
+        </g>
       </g>
       <g
          id="g22193"
